@@ -30,6 +30,7 @@ The project serves as a practical application of database design, data managemen
 - **PDF** for project reporting
 
 ## Project Structure
+```plaintext
 db-and-it-automation-project/
 ├── README.md
 ├── docs/
@@ -46,7 +47,7 @@ db-and-it-automation-project/
 │ ├── idef0_as_is.dia
 │ ├── idef0_to_be.dia
 │ └── er_model.bp1
-
+```
 
 ## Significance of the Project
 This project showcases my ability to independently analyze, design, and implement IT solutions for real-world business scenarios. It combines database management, process modeling, and automation, demonstrating a comprehensive approach to IT project development.
