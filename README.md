@@ -36,17 +36,18 @@ db-and-it-automation-project/
 ├── docs/
 │ └── project-report.pdf
 ├── database/
+│ ├── autotor_database.odb
 │ ├── autotor_database.accdb
 │ └── full_database_setup.sql
 ├── diagrams/
 │ ├── idef0_as_is.png
 │ ├── idef0_to_be.png
-│ ├── erd_logical.png
-│ ├── erd_physical.png
+│ ├── logical.png
+│ ├── physical.png
 │ └── source/
-│ ├── idef0_as_is.dia
-│ ├── idef0_to_be.dia
-│ └── er_model.bp1
+│ ├── idef0_as_is.bp1
+│ ├── idef0_to_be.bp1
+│ └── dia.dia
 ```
 
 ## Significance of the Project
